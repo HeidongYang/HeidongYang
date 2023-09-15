@@ -1,5 +1,10 @@
 A CLoud Architect 
 
+Personal Link
+
+
+
+
 Certificate
 
 Oracle Cloud Infrastructure 2023 Architect Professional
